@@ -1,5 +1,6 @@
 # --ALAT-SPAM-Whatsapp-sms-telepon-
 #by h20-studio
+
 Alat ini digunakan untuk jailin teman atau musuh, gunakan secara bijak jika skrip ini segera lapor ke admin
 
 # -> PERINTAH TERMUX
